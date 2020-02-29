@@ -1,1 +1,1 @@
-# javascriptapp
+# javascriptapp vending machine
